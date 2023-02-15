@@ -1,0 +1,184 @@
+{
+    "movies": {
+        "1" :{
+            "backgroundImg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/E01F8EC38E1AE1D5BA49150341B636C96FE4C0FECCF44D258A9C2F396CA3F560/scale?width=1440&aspectRatio=1.78&format=jpeg",
+            "cardImg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/6EA330D20963739FB2DB3B5D33D032549EFB8AFC3E5F2FE1A22F8EE1918FCFBB/badging?width=400&aspectRatio=1.78&format=jpeg&label=disneyplusoriginal",
+            "description": "Sigue la producción de Pantera Negra: Wakanda por siempre en este episodio de Unidos, en el que el reparto y el equipo asumen el increíble reto de recordar a T'Challa, con un capítulo digno del difunto rey. A través de imágenes y entrevistas íntimas detrás de cámaras, verás a Shuri tomar el manto de heroína de Wakanda y enfrentarse a Namor, un nuevo enemigo de las profundidades del océano.",
+            "subTitle": "2023 • 57 min • Documental ",
+            "title": "Unidos",
+            "titleImg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/430B5C6461EBC32F11A0896750ACACE06D970EE2314BBA25F42BA8E8B5140DFC/scale?width=1440&aspectRatio=1.78&format=png",
+            "type": "recommend"
+        },
+        "2" :{
+            "backgroundImg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/0775EFE096B6179F830D2490ECC5F4DD4402DA0261ED82DA5D43C041FC3027EE/scale?width=1440&aspectRatio=1.78&format=jpeg",
+            "cardImg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/1C42324412D81E612EFD8E9DAB82B24EB43D057306A3F812214E9BA728DC0162/badging?width=400&aspectRatio=1.78&format=jpeg&label=disneyplusoriginal",
+            "description": "Tras la caída del Imperio, un mandaloriano solitario atraviesa la galaxia anárquica con su huérfano, Grogu.",
+            "subTitle": "2019 - 2021 • 3 temporadas • Ciencia ficción, Acción y aventura",
+            "title": "The Mandalorian",
+            "titleImg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/B0EBFC5E84A8CDCF197A7D2FCBDF5F56974AFC4DE313CEEF2C9A6B6231F9CC3E/scale?width=1440&aspectRatio=1.78&format=png",
+            "type": "new"
+        },
+        "3" :{
+            "backgroundImg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/880007FFF633B45610AD646E19991FE0A1502E58C3262080B5BAC9776FCF6A61/scale?width=1440&aspectRatio=1.78&format=jpeg",
+            "cardImg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/CBE17D5B2DE4E01D4B00BED94AF8A77F5D8E033AB3FAB9AD5F5EC860C1C63AA3/scale?width=400&aspectRatio=1.78&format=jpeg",
+            "description": "Amphibia narra las cómicas aventuras de Anne Boonchuy, una niña de 13 años que es transportada mágicamente al mundo de Amphibia, un pantano salvaje lleno de anfibios parlantes.",
+            "subTitle": "2019 - 2021 • 3 temporadas • Familiar, Comedia, Fantasía, Infantil, Animación",
+            "title": "Amphibia",
+            "titleImg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/4EEED70434DE3CDD36612CE5AFC593ECFA310A1E661C9012118BBD0A74247857/scale?width=1440&aspectRatio=1.78&format=png",
+            "type": "recommend"
+        },
+        "4" :{
+            "backgroundImg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/4644D82413785930B2EA158D5E786462D9BB4E52FC00A6F3C6B77FDA302FC97C/scale?width=1440&aspectRatio=1.78&format=jpeg",
+            "cardImg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/EDE36780984452381C5B84F31F5A7E7D44AACD4054BF694B00ED8B9EB8F82EFC/scale?width=400&aspectRatio=1.78&format=jpeg",
+            "description": "La reina Ramonda, Shuri, M’Baku, Okoye y las Dora Milaje protegen Wakanda de las fuerzas invasoras tras la muerte del rey T'Challa con ayuda de Nakia y Everett Ross. Solo queda unirse y luchar por un nuevo camino.",
+            "subTitle": "2022 • 2 h 43 min • Ciencia ficción, Superhéroes, Acción y aventura",
+            "title": "Pantera Negra: Wakanda por siempre",
+            "titleImg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/039713B3255C6F89AC6E146EF6B3DD785C8FAFC98947FA6E05A737AFCEFF7C02/scale?width=1440&aspectRatio=1.78&format=png",
+            "type": "trending"
+        },
+        "5" :{
+            "backgroundImg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/C39B9556A8F9EBF562E8363AFCAD1BF5C44DB310A9939E4624CA5C7B18788248/scale?width=1440&aspectRatio=1.78&format=jpeg",
+            "cardImg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/E17447A667353FF2EAF7C718A4F372E1DD02C405744C24D9A015564B4C8FFB3E/badging?width=400&aspectRatio=1.78&format=jpeg&label=disneyplusoriginal",
+            "description": "En el Minnesota actual, The Mighty Ducks ya no es el equipo que sorprende a los favoritos: ahora es extremadamente competitivo y poderoso. Evan Morrow tiene doce años y se queda afuera, entonces arma una selección fuera de lo común con su mamá Alex para desafiar la cultura supercompetitiva en el deporte juvenil, y gracias al entrenador Gordon Bombay redescubren la alegría de jugar al hockey solo por amor al juego.",
+            "subTitle": "2021 - 2022 • 2 temporadas • Deportes, Drama, Comedia",
+            "title": "The Mighty Ducks",
+            "titleImg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/36F3135DFBFA56F997C66533F64D25711A162FE49766BA1FB545E30D8F35645B/scale?width=1440&aspectRatio=1.78&format=png",
+            "type": "original"
+        },
+        "6" :{
+            "backgroundImg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/927FD2C12514FFF81223F3F9615E8A7CB09D5A744061F4B9659F229C1515F663/scale?width=1440&aspectRatio=1.78&format=jpeg",
+            "cardImg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/230AA9814FCBC9CF1DD4011C6EB73E1FAD382F2E7CF04E6C497DFB3B48B4DA79/scale?width=400&aspectRatio=1.78&format=jpeg",
+            "description": "La familia más famosa de Springfield y el mundo. La comedia animada que sigue haciendo historia. Homero trabaja en la planta nuclear y no es el típico padre de familia: aunque tiene las mejores intenciones, no siempre bastan. Marge es la matriarca amorosa de pelo azul; Bart, el hijo problemático; Lisa, la hija sobresaliente, y Maggie, la bebé que nunca habla. En pocas palabras: ¡los Simpson!",
+            "subTitle": "2017 - 2018 • 2 temporadas • Comedia, Animación",
+            "title": "Los Simpson",
+            "titleImg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/38484C7F76D608C58E0C26C6E3BA39066F9D5063C7EE936D5620883771038AE9/scale?width=1440&aspectRatio=1.78&format=png",
+            "type": "trending"
+        },
+        "7" :{
+            "backgroundImg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/EF383039CC210BC6678BFBC0B9164649F4EDC2C6B9C13DDD5DE445EA19FC7B22/scale?width=1440&aspectRatio=1.78&format=jpeg",
+            "cardImg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/938F7C95F3AD4D023EB7A8CA403250BCB82E2992FE22C32007D0D5C4C9B97BCF/scale?width=400&aspectRatio=1.78&format=jpeg",
+            "description": "Desconecta el océano para revelar secretos ocultos y mundos perdidos con una tecnología innovadora, impresionantes fotografías y conocimientos de los mejores arqueólogos marinos. Drain the Oceans ofrece nuevos y profundos conocimientos sobre la épica historia de la civilización humana y de la Tierra, exponiendo ciudades hundidas, naufragios y asombrosas maravillas naturales de las profundidades.",
+            "subTitle": "2018 - 2021 • 4 temporadas • Historia, Docuserie",
+            "title": "Secreto en los Océanos",
+            "titleImg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/D52A480B1DDC48D2AEB53377334D00E629A8BC87BE047DED9301162854A2A170/scale?width=1440&aspectRatio=1.78&format=png",
+            "type": "recommend"
+        },
+        "8" :{
+            "backgroundImg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/9D9E92DAA4B573CCF716A93C547A6CF3ADD1E8AFE2AEBDD70BD760A38432899D/scale?width=1440&aspectRatio=1.78&format=jpeg",
+            "cardImg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/34D5BB02C743C0D871F64381797A0E03DF81805538EDBDDA528B59AC91FD3794/badging?width=400&aspectRatio=1.78&format=jpeg&label=disneyplusoriginal",
+            "description": "El excepcional grupo masculino SUPER JUNIOR 05 crece y se convierte en el mejor grupo del mundo, SUPER JUNIOR. Este documental es un análisis detrás de escena del grupo y sus integrantes.",
+            "subTitle": "2023 • 1 temporada • Docuserie, Música",
+            "title": "Super Junior: The Last Man Standing",
+            "titleImg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/D7165E7C199AEDD2982DD946ED5673C7163C8D0CDDD54E0050528FD8CCDDB1DC/scale?width=1440&aspectRatio=1.78&format=png",
+            "type": "original"
+        },
+        "9" :{
+            "backgroundImg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/4C656CEF823EB24A71CBB0D86AEECBBBE7925BBE65E84BE3F74E516288F8CCC3/scale?width=1440&aspectRatio=1.78&format=jpeg",
+            "cardImg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/A707FAC17E4331D426988825ECFBE21E44821A997E3E7CB8B2BF87B1505B585C/badging?width=400&aspectRatio=1.78&format=jpeg&label=disneyplusoriginal",
+            "description": "Unos científicos que intentan resolver la crisis medioambiental de la contaminación idean una forma de enviar la basura recogida al espacio mediante cohetes. Cuando esta basura empieza a aterrizar en planetas alienígenas, los indignados alienígenas se dirigen a la Tierra para vengarse. El Rey Shakir y su familia deben hacer todo lo posible para proteger el mundo de la destrucción alienígena.",
+            "subTitle": "2022 • 1 h 32 min • Ciencia ficción, Familiar, Comedia, Animación, Acción y aventura",
+            "title": "Rey Sakir: La Película",
+            "titleImg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/F1E406241DBBFC7D0143405455C1EB5923BE5FC2937A8C86F3E1B457BDEB68B9/scale?width=1440&aspectRatio=1.78&format=png",
+            "type": "original"
+        },
+        "10" :{
+            "backgroundImg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/62BB262EBD327F8597282592217CF490952AC1C5B7A9909BB91AF8BCC797F92E/scale?width=1440&aspectRatio=1.78&format=jpeg",
+            "cardImg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/3F6A30C0A02A8C6060A82AAF9406709A7273C4E8F755B45DC66953FDB02DFF77/scale?width=400&aspectRatio=1.78&format=jpeg",
+            "description": "En esta extraordinaria aventura de Disney•Pixar, un chico que sueña con ser un gran músico se embarca en un viaje para descubrir los misterios detrás de sus antepasados, historias y tradiciones.",
+            "subTitle": "2017 • 1 h 44 min • Familiar, Fantasía, Animación, Música",
+            "title": "Coco",
+            "titleImg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/88CCEF89045AEFDC107BDF027A4C3914A39AC5599DEF3B9C641CD0AFE95FE8A1/scale?width=1440&aspectRatio=1.78&format=png",
+            "type": "trending"
+        },
+        "11" :{
+            "backgroundImg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/3CB85D5DAA09FE7DF39225EE129CBFBD9E385577E9ADB0B77F9FA5B85CF8404F/scale?width=1440&aspectRatio=1.78&format=jpeg",
+            "cardImg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/8F2134A57C166A7FD491A6D6512918D8E9B5642E3971576DA2F119B619D3F8A5/badging?width=400&aspectRatio=1.78&format=jpeg&label=disneyplusoriginal",
+            "description": "En She-Hulk: Defensora de héroes, Jennifer Walters, una abogada especialista en casos legales relacionados con seres sobrehumanos, debe enfrentarse a la complicada vida de una mujer soltera de treinta y tantos que además es una superpoderosa hulk verde de dos metros.",
+            "subTitle": "2022 • 1 temporada • Ciencia ficción, Comedia, Superhéroes, Acción y aventura",
+            "title": "She-Hulk: Defensora de héroes",
+            "titleImg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/9A5A99B22605EE960D1B63CFF9382F9ADC33A9951FD887CF9D2E0F6FAC25DCDB/scale?width=1440&aspectRatio=1.78&format=png",
+            "type": "original"
+        },
+        "12" :{
+            "backgroundImg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/4444F937B8A1B8690ABFB150E5CF9C9986C881C9A84683A4D44483AE302AE36B/scale?width=1440&aspectRatio=1.78&format=jpeg",
+            "cardImg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/7BB3BC3EBF8D406748B1B94A3D5204B0EABE4F69713EB26F0CFF7BD026BC4D50/badging?width=400&aspectRatio=1.78&format=jpeg&label=disneyplusoriginal",
+            "description": "Amaranto Molina es un excéntrico profesor de música que, con sus métodos disruptivos, llega para emprender un viaje lleno de experiencias únicas que ayudará a sus alumnos, no solo a expresar sus verdaderos talentos musicales, sino también a sanar sus heridas.",
+            "subTitle": "2023 • 1 temporada • Drama, La aventura de crecer, Comedia, Música",
+            "title": "El club de los graves",
+            "titleImg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/27F6F1274D233F5BD22FECB490C05F37C4EB8D5FD56FDC6E054E94456A33FE2F/scale?width=1440&aspectRatio=1.78&format=png",
+            "type": "new"
+        },
+        "13" :{
+            "backgroundImg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/AFD18AC1FDD3824F91C5AD23F1F96FFF967100279E5DDF935AF0B0559F6C5679/scale?width=1440&aspectRatio=1.78&format=jpeg",
+            "cardImg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/DCB53DDB84242DDDE0AFA5A5CED53103E1325630534CBAD9E2E0F5B397A654C5/badging?width=400&aspectRatio=1.78&format=jpeg&label=disneyplusoriginal",
+            "description": "Olvida todo lo que sabes o todo lo que crees que sabes, así como lo que crees que crees que sabes. Conoce a fondo los entretelones de la nueva serie Willow de Lucasfilm, y escucha a sus nuevas estrellas y a las leyendas que regresan. Mira cómo se reaviva la magia, continúa la aventura y se revelan las rivalidades como nunca antes.",
+            "subTitle": "2023 • 33 min • Documental",
+            "title": "Willow: Así se hizo la magia",
+            "titleImg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/C9C0112535F7587716A39431B7838434ECB4E6F110B50472F2CDDA10224DC948/scale?width=1440&aspectRatio=1.78&format=png",
+            "type": "recommend"
+        },
+        "14" :{
+            "backgroundImg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/BF5B1B111DECDF0117EA8FE472FD909976D049BFBB253EBC87856E3E160DE071/scale?width=1440&aspectRatio=1.78&format=jpeg",
+            "cardImg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/20B599471949A466F4772FCB48FF6A753316CF17BD3EF719528E3BF72312259F/scale?width=400&aspectRatio=1.78&format=jpeg",
+            "description": "O11CE cuenta la historia de Gabo Moreti (Mariano González), un adolescente apasionado del fútbol que vive con su abuela en un pequeño pueblo llamado Álamo Seco. Su gran aptitud futbolística no pasa desapercibida ante Francisco (Nicolás Pauls), director técnico del equipo de fútbol del prestigioso Instituto Académico Deportivo (IAD), quien decide otorgarle una beca.",
+            "subTitle": "2017 - 2019 • 3 temporadas • Romance, Deportes, La aventura de crecer",
+            "title": "011CE",
+            "titleImg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/8FC0EEB181E349B5B6F8CE463180766F70BAFE778DF2143230300EF05397F94C/scale?width=1440&aspectRatio=1.78&format=png",
+            "type": "trending"
+        },
+        "15" :{
+            "backgroundImg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/E7844CB5BDFBB5C1AC78EB5FD672381F2B58569CDADEF27920EF63049DBBE81B/scale?width=1440&aspectRatio=1.78&format=jpeg",
+            "cardImg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/8EBC7C66247047255060B6C0E92771CB1D6577B8EF2D616BB2CB1DEC6F3263FF/badging?width=400&aspectRatio=1.78&format=jpeg&label=disneyplusoriginal",
+            "description": "Mila tiene 16 años y vive la aventura de su vida viajando por el multiverso en busca de su madre, Elis. En este camino, se enfrenta a Los Operadores, un grupo misterioso y peligroso que quiere el exterminio de todos los universos, y deberá enfrentarlos para preservar la vida del vasto multiverso.",
+            "subTitle": "2023 • 1 temporada • Ciencia ficción, Comedia, Acción y aventura ",
+            "title": "Mila en el Multiverso",
+            "titleImg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/24C697280CD3887F4106EFA412010B019C727A320EFB9681531848FB9883B361/scale?width=1440&aspectRatio=1.78&format=png",
+            "type": "new"
+        },
+        "16" :{
+            "backgroundImg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/EF1DE82C2FFD4CAD4A31635A0548D0052AE1C0C70343105877B679C5C613980A/scale?width=1440&aspectRatio=1.78&format=jpeg",
+            "cardImg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/551ADC4B0E3AC67A4323F1723364DB78A445A83B6E5002329A1C163C156DD244/badging?width=400&aspectRatio=1.78&format=jpeg&label=disneyplusoriginal",
+            "description": "Percy Jackson lidera una búsqueda por América para evitar una guerra entre los dioses del Olimpo.",
+            "subTitle": "2024 • 1 temporada • Familiar, Fantasía, Acción y aventura ",
+            "title": "Percy Jackson and the Olympians",
+            "titleImg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/F9E0C9D62379CA2FFDFCB41A8F42DACF06F38E8333E69752E277DCB290C20AE3/scale?width=1440&aspectRatio=1.78&format=png",
+            "type": "new"
+        },
+        "17" :{
+            "backgroundImg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/F78C339C6B50AB53F1CCD90787A11085F8B72B5493E1DDB2857FFA0EA568C64D/scale?width=1440&aspectRatio=1.78&format=jpeg",
+            "cardImg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/2835F3C5561E68F131B83438CB4AE7451A20A0D03576B02C3E5EEE60B25DC417/badging?width=400&aspectRatio=1.78&format=jpeg&label=disneyplusoriginal",
+            "description": "Invasión Secreta de Marvel Studios está protagonizada por Samuel L. Jackson como Nick Fury y Ben Mendelsohn como el skrull Talos, personajes que se conocieron en Capitana Marvel. Esta serie crossover muestra a una facción de skrulls cambiaformas que estuvo infiltrándose durante años en la Tierra.",
+            "subTitle": "2023 • 1 temporada • Espionaje, Superhéroes, Acción y aventura",
+            "title": "Invasión Secreta",
+            "titleImg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/3F2F239913AFBB2A8CE7C0DFA22FAED9F7773B8A7621A7E919BD46A21EF8070E/scale?width=1440&aspectRatio=1.78&format=png",
+            "type": "new"
+        },
+        "18" :{
+            "backgroundImg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/0C193F723BE7CF31342720CF9F3229B5B93F2D4F6ABFAEDB54C8712B7C9A1B0A/scale?width=1440&aspectRatio=1.78&format=jpeg",
+            "cardImg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/4614B838667E62D41F564A195EB2FF06AD15EDD75CC83CEEA9CC0092E0144AD7/badging?width=400&aspectRatio=1.78&format=jpeg&label=disneyplusoriginal",
+            "description": "Eric Dalaras regresa a Cabo Qwert para resolver el misterio detrás de la desaparición de sus padres. En ese pueblo se reencontrará con amigos y enemigos; y deberá desentramar los misterios que encierra el parque de terror conocido como Tierra incógnita.",
+            "subTitle": "2022 • 1 temporada • Drama, Terror, La aventura de crecer",
+            "title": "Tierra Incógnita",
+            "titleImg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/3DB09B871419C7DF3F996340A73A67404C7AB997FEAAA104ACE3FCB0BFCAAD82/scale?width=1440&aspectRatio=1.78&format=png",
+            "type": "original"
+        },
+        "19" :{
+            "backgroundImg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/9B02FF93A0695199BFA1E74F708B021478E8D9CF4EE04434948FCF47A378BAEC/scale?width=1440&aspectRatio=1.78&format=jpeg",
+            "cardImg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/8DE5FD98958BCFC5A73B06840696AC21C369AABC357989B27E4539C89ADB89FD/scale?width=400&aspectRatio=1.78&format=jpeg",
+            "description": "A Malcolm, un niño de nueve años a quien le gusta andar en patineta y pasar el rato con su mejor amigo Stevie, le cambia la vida cuando lo obligan a entrar en la clase de “talentosos” y se encuentra rodeado de un grupo de marginados talentosos.",
+            "subTitle": "2000 - 2005 • 7 temporadas • Drama, Comedia",
+            "title": "Malcolm in the Middle",
+            "titleImg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/0CE4E0525E8DE5E473A93CB1D39D92F221B161D426A129C01972BCE81551CE7E/scale?width=1440&aspectRatio=1.78&format=png",
+            "type": "trending"
+        },
+        "20" :{
+            "backgroundImg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/831567C88696EC213B651DB6944FC91AB9191CCB7C669273BFF87B64C4E5C455/scale?width=1440&aspectRatio=1.78&format=jpeg",
+            "cardImg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/49E643C01D786B6EE68D0F8CB195BAC22FD696B8F0DEBD6217C79EA3EC34203D/badging?width=400&aspectRatio=1.78&format=jpeg&label=disneyplusgeneric",
+            "description": "Debido a una tragedia familiar, los hermanos Frank y Joe Hardy se ven obligados a mudarse de la gran ciudad a Bridgeport, el pueblo natal de sus padres. Durante su estadía con la tía Trudy, los chicos descubren que su padre, el detective Fenton Hardy, ha iniciado una investigación secreta y que, además, hay algo que no calza en él, por lo que los hermanos deciden investigar por cuenta propia.",
+            "subTitle": "2020 - 2022 • 2 temporadas • Misterio, Drama",
+            "title": "The Hardy Boys",
+            "titleImg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/77A00ADE15A4CD38DC57F38AFD3D1A248FEBDE43671E1B78628F19E9A87C6615/scale?width=1440&aspectRatio=1.78&format=png",
+            "type": "recommend"
+        }
+    }
+}
