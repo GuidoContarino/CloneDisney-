@@ -1,5 +1,5 @@
 {
-    "movies": {
+    "movie": {
         "1" :{
             "backgroundImg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/E01F8EC38E1AE1D5BA49150341B636C96FE4C0FECCF44D258A9C2F396CA3F560/scale?width=1440&aspectRatio=1.78&format=jpeg",
             "cardImg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/6EA330D20963739FB2DB3B5D33D032549EFB8AFC3E5F2FE1A22F8EE1918FCFBB/badging?width=400&aspectRatio=1.78&format=jpeg&label=disneyplusoriginal",

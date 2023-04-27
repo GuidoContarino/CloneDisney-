@@ -86,47 +86,47 @@ const Wrap = styled.div`
 
 const SLIDERS = [
   {
-    img: "/images/compose.jpg",
+    img: "/Images/compose.jpg",
     title: "Nominado al Óscar",
     alt: "Wakanda",
-    titleImg: "/images/titlewakanda.png",
+    titleImg: "/Images/titlewakanda.png",
   },
   {
-    img: "/images/slider-graves.jpg",
+    img: "/Images/slider-graves.jpg",
     alt: "Graves",
     title: "Proximamente en Disney+",
-    titleImg: "/images/titlegraves.png",
+    titleImg: "/Images/titlegraves.png",
   },
   {
-    img: "/images/slider-encanto.jpg",
+    img: "/Images/slider-encanto.jpg",
     alt: "Encanto",
     title: "Ganador del GRAMMY®",
-    titleImg: "/images/titleencanto.png",
+    titleImg: "/Images/titleencanto.png",
   },
   {
-    img: "/images/sldier-tesoro.jpg",
+    img: "/Images/sldier-tesoro.jpg",
     alt: "Tesoro",
     title: "Final de temporada ya disponible",
-    titleImg: "/images/titletesoro.png",
+    titleImg: "/Images/titletesoro.png",
   },
 
   {
-    img: "/images/slider-spiderman.jpg",
+    img: "/Images/slider-spiderman.jpg",
     alt: "Spiderman",
     title: "Nuevos episodios ya disponibles",
-    titleImg: "/images/titlespiderman.png",
+    titleImg: "/Images/titlespiderman.png",
   },
   {
-    img: "/images/slider-amphibia.jpg",
+    img: "/Images/slider-amphibia.jpg",
     alt: "Amphibia",
     title: "Nuevos episodios ya disponibles",
-    titleImg: "/images/titleamphibia.png",
+    titleImg: "/Images/titleamphibia.png",
   },
   {
-    img: "/images/slider-up.jpg",
+    img: "/Images/slider-up.jpg",
     alt: "Up",
     title: "Mes del Amor",
-    titleImg: "/images/titleUp.png",
+    titleImg: "/Images/titleUp.png",
   },
 ];
 
